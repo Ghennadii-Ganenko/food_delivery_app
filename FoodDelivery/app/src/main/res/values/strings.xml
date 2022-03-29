@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <string name="product_image">Product image</string>
+    <string name="placeholder_price">от 100 р</string>
+    <string name="placeholder_name">Ветчина и грибы</string>
+    <string name="placeholder_description">Ветчина,шампиньоны, увеличенная порция моцареллы, томатный соус</string>
+    <string name="menu_dishes">Menu</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_cart">Cart</string>
+</resources>
