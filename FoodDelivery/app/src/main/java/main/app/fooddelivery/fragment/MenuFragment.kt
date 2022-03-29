@@ -10,6 +10,7 @@ import main.app.fooddelivery.R
 import main.app.fooddelivery.adapter.ProductAdapter
 import main.app.fooddelivery.databinding.FragmentMenuBinding
 import main.app.fooddelivery.domain.models.ProductEntity
+import main.app.fooddelivery.viewmodel.MenuViewModel
 import org.koin.androidx.viewmodel.ext.android.viewModel
 import timber.log.Timber
 

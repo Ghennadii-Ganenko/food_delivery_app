@@ -7,4 +7,14 @@
     <string name="menu_dishes">Menu</string>
     <string name="menu_profile">Profile</string>
     <string name="menu_cart">Cart</string>
+    <string name="moscow">Moscow</string>
+    <string name="promotion_1">Promotion 1</string>
+    <string name="promotion_2">Promotion 2</string>
+    <string name="down_arrow">Down Arrow</string>
+    <string name="qr_code">QR Code</string>
+    <string name="pizza">Pizza</string>
+    <string name="combo">Combo</string>
+    <string name="desserts">Desserts</string>
+    <string name="drinks">Drinks</string>
+    <string name="other">Other</string>
 </resources>

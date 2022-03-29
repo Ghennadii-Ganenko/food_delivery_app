@@ -1,6 +1,6 @@
 package main.app.fooddelivery.di
 
-import main.app.fooddelivery.fragment.MenuViewModel
+import main.app.fooddelivery.viewmodel.MenuViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 

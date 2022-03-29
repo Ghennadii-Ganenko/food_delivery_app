@@ -1,4 +1,4 @@
-package main.app.fooddelivery.fragment
+package main.app.fooddelivery.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
