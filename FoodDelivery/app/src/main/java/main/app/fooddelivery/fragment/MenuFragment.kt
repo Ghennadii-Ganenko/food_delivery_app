@@ -56,7 +56,7 @@ class MenuFragment : Fragment(R.layout.fragment_menu), ProductAdapter.ItemClickL
     }
 
     override fun onItemClicked(item: ProductEntity, view: View) {
-        TODO("Not yet implemented")
+
     }
 
 }
